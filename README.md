@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - Codepath Prework
 
 Submitted by: Gabriel Rodriguez
 
-**Name of your app** is an app that... [TODO] 
+Codepath Prework is an app that changes color randomly when the button is clicked or pressed.
 
 Time spent: 2 hours spent in total
 
@@ -16,9 +16,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 <div>
-    <a href="https://www.loom.com/share/24f56836468a4b1ba8cc2f03cec16c27">
-     
-    </a>
+    <a href="https://www.loom.com/share/24f56836468a4b1ba8cc2f03cec16c27"></a>
     <a href="https://www.loom.com/share/24f56836468a4b1ba8cc2f03cec16c27">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/24f56836468a4b1ba8cc2f03cec16c27-145ef6ac60ecdb57-full-play.gif">
     </a>
